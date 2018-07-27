@@ -10,7 +10,8 @@
   <br>18.7.13 更新: PanDownload软件下载安装即用(无需配置, 非常方便!)
  
   <li>科学上网</li>
-  <br>新增Chrome扩展(本地硬盘导入), 注册使用, 访问Google, 速度不错!
+  <br>新增Chrome扩展(本地硬盘导入)谷歌上网助手, 注册使用, 前三天免费体验，后续需要付费， 速度nice!
+  <br>Chrome 67以后的版本不支持安装第三方插件，Chrome插件伴侣很好地解决了该问题！简单迅速。
   <li>JavaWeb相关CHM文件集合</li>
   <li>JavaWeb所需jar包集合</li>
   <li>保护眼睛</li>
